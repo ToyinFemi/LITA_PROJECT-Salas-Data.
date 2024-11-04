@@ -64,4 +64,4 @@ This includes the lines of queries used during the analysis using SQL.
 select sum(sales) as total_sales, product from [dbo].[Capstone Sales Data]
 group by product
 ```
-https://github.com/ToyinFemi/LITA_PROJECT-Sales-Data./blob/7209109939b56b4a2a658307ddd9308d7f656e0c/SQL%201.1.png
+
