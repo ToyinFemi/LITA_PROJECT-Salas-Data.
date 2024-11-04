@@ -57,7 +57,7 @@ This includes all the pivot tables made using Microsoft Excel.
 
 ### Data Analysis, Visualization, and Inferences (SQL)
 ---
-This includes the lines of queries used during the analysis using SQL.
+This includes the lines of queries used during the analysis using SQL, and their outputs.
 #### 1.	Total sales of each product category.
 
 ```SQL
@@ -71,7 +71,7 @@ group by product
 
 #### 2.	Number of sales transactions in each region. 
 
-``  SQL 
+```SQL 
 select count(orderid) as Sales_Count, Region from [dbo].[Capstone Sales Data]
 GROUP BY Region
 ```
@@ -82,7 +82,7 @@ GROUP BY Region
 
 #### 3.	Highest-selling product by total sales value.
 
-``  SQL 
+```SQL 
 select top 1 sum(sales) as Highest_Selling_Product, product from [dbo].[Capstone Sales Data]
 group by product
 ```
@@ -93,7 +93,7 @@ group by product
 
 #### 4.	Total revenue per product.
 
-``  SQL 
+```SQL 
 select sum(sales) as total_revenue,
 product from [dbo].[Capstone Sales Data]
 group by product
@@ -105,7 +105,7 @@ group by product
 
 #### 5.	Monthly sales totals for the current year.
 
-``  SQL 
+```SQL 
 select sum(sales) as Sales_2024, Month from [dbo].[Capstone Sales Data]
 where year =2024
 group by month  
@@ -115,7 +115,42 @@ group by month
 
 #### Inference:
 
+#### 6.	Top 5 customers by total purchase amount.
 
+```SQL 
+select top 5 sum(sales) as Top_5, Customer_Id from [dbo].[Capstone Sales Data]
+group by Customer_Id 
+```
+
+![SQL 1 6](https://github.com/user-attachments/assets/6272b82f-2052-4811-a591-1ab830253761)
+
+#### Inference:
+
+#### 7.	Percentage of total sales contributed by each region.
+
+```SQL 
+select region, 
+sum(sales) as Region_Sales,
+count(sales) *100.0/sum(count(sales)) over () as Percentage from [dbo].[Capstone Sales Data]
+group by region 
+```
+
+![SQL 1 7](https://github.com/user-attachments/assets/53172187-c0bd-4093-b8dd-89ff3be78795)
+
+#### Inference:
+
+#### 8.	Products with no sales in the last quarter.
+
+```SQL 
+select Product from [dbo].[Capstone Sales Data]
+where sales=0
+  and year =2024
+and quarter =3
+```
+
+![SQL 1 8](https://github.com/user-attachments/assets/8c531a35-b8bb-4dcd-ad9a-69df2ecf47e2)
+
+#### Inference:
 
 
 
