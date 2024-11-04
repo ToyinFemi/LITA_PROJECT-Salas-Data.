@@ -65,3 +65,4 @@ select sum(sales) as total_sales, product from [dbo].[Capstone Sales Data]
 group by product
 ```
 
+https://github.com/ToyinFemi/LITA_PROJECT-Sales-Data./blob/main/SQL%201.1.png?raw=true
