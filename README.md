@@ -58,7 +58,7 @@ This includes all the pivot tables made using Microsoft Excel.
 ### Data Analysis, Visualization, and Inferences (SQL)
 ---
 This includes the lines of queries used during the analysis using SQL.
-1.	Total sales of each product category.
+#### 1.	Total sales of each product category.
 
 ```SQL
 select sum(sales) as total_sales, product from [dbo].[Capstone Sales Data]
@@ -66,4 +66,17 @@ group by product
 ```
 
 ![SQL 1 1](https://github.com/user-attachments/assets/b15afd34-24bd-4f18-ab72-e7031631066a)
+
+#### Inference:
+
+#### 2.	Number of sales transactions in each region. 
+
+``  SQL 
+select count(orderid) as Sales_Count, Region from [dbo].[Capstone Sales Data]
+GROUP BY Region
+```
+
+
+
+
 
