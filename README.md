@@ -5,11 +5,11 @@ This is a documentation of data validation, cleaning, querying, transformation, 
 ## Topic: Sales Data Analysis.
 
 ### Overview
-
+---
 This project collects and analyzes sales trends of some products from various regions from January 2023 to August 2024. This project aims to generate key insights such as top-selling products, regional performance, customer behavior, and monthly sales trends.
 
 ### Data Collected
-
+---
 The dataset includes the following key columns:
 
 - OrderID: The identification number attached to each order.
@@ -21,12 +21,13 @@ The dataset includes the following key columns:
 - UnitPrice: The amount of each product.
 
 ### Tools Used
+---
 1. Microsoft Excel: For Data Cleaning, Analysis, and Visualization.
 2. Structured Query Language(SQL): For Querying of Data.
 3. Power BI: For Data Transformation, and Virtualization. 
 
 ### Data Cleaning and Preparations
-
+---
 The following actions were performed to clean and prepare the data:
 
 - Data Loading and Inspection on Microsoft Excel, SQL, and Power BI.
@@ -34,9 +35,8 @@ The following actions were performed to clean and prepare the data:
 - Handling and Calculating missing variables on Microsoft Excel, SQL, and Power BI.
 
 ### Exploratory Data Analysis
-
+---
 The data was explored to determine the following: 
-
 - Total sales by product, region, and month.
 - Average sales per product.
 - Total revenue by region.
@@ -51,10 +51,12 @@ The data was explored to determine the following:
 - Regional breakdowns
 
 ### Data Analysis and Inferences (MICROSOFT EXCEL)
+---
 This includes all the pivot tables made using Microsoft Excel.
 1.	Total Sales per Product
 
 ### Data Analysis and Inferences (SQL)
+---
 This includes the lines of queries used during the analysis using SQL.
 1.	Total sales of each product category.
 
