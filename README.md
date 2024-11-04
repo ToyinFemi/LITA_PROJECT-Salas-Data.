@@ -193,6 +193,36 @@ and quarter =3
 ---
 This includes all the Visuals made using Power BI.
 
+![PBI 1 1](https://github.com/user-attachments/assets/ac029179-86a6-4a9f-99d4-46963d37fe37)
+
+![PBI 1 2](https://github.com/user-attachments/assets/a62c8973-9c0e-483c-9565-f185cf5165e7)
+
+![PBI 1 3](https://github.com/user-attachments/assets/1e5e5f56-aea3-4410-aec3-710a8310a8e1)
+
+![PBI 1 4](https://github.com/user-attachments/assets/474fa775-ae10-4862-91e9-b655d85aab1b)
+
+![PBI 1 5](https://github.com/user-attachments/assets/692d4ac7-1be1-4500-87f5-b76b6af3ddd2)
+
+![PBI 1 6](https://github.com/user-attachments/assets/6fbe3eaf-821e-4f47-991c-54985c2a5f06)
+
+![PBI 1 7](https://github.com/user-attachments/assets/e49aa4a8-707f-4ddf-af32-d8d172e6820a)
+
+![pbi 1 8](https://github.com/user-attachments/assets/5412335a-1be9-47f7-a17d-99b37c40fa12)
+
+![PBI 1 9](https://github.com/user-attachments/assets/024f62ee-24c7-4e4c-9a4c-d49227b2b0a1)
+
+![PBI 1 10](https://github.com/user-attachments/assets/cb5e4d57-966d-4873-a6f6-53daab24de0d)
+
+![PBI 1 11](https://github.com/user-attachments/assets/c7ae8d97-0b28-487c-bd66-91374f1582e8)
+
+![PBI 1 12](https://github.com/user-attachments/assets/06909885-cd5b-4ba2-a77b-4486fbbcbfa5)
+
+![PBI 1 13](https://github.com/user-attachments/assets/1d1b6f37-1bb8-4baf-b765-1842e888bd8c)
+
+![PBI 1 14](https://github.com/user-attachments/assets/7183074c-b281-4198-8da5-ec506254698d)
+
+![PBI 1 15](https://github.com/user-attachments/assets/5c134fcf-dfbf-4cd9-8293-03aa6b4d2557)
+
 
 
 
