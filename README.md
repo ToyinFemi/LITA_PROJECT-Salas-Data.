@@ -1,12 +1,12 @@
-# Project name: LITA_Capstone_Project.
-
+# Project name: LITA_Capstone_Project: Sales Performance Analysis for a Retail Store.
+---
 This is a documentation of data validation, cleaning, querying, transformation, and visualization I carried out while working on the Sales Data of  Ladies in Tech Africa's final project.  
 
-## Topic: Sales Data Analysis.
-
+## Topic: Sales Performance Analysis.
+---
 ### Overview
 ---
-This project collects and analyzes sales trends of some products from various regions from January 2023 to August 2024. This project aims to generate key insights such as top-selling products, regional performance, customer behavior, and monthly sales trends.
+This project collects and analyzes sales trends of products sold by  a retail store that has outlets in different regions from January 2023 to August 2024. This project aims to generate key insights such as top-selling products, regional performance, customer behavior, and monthly sales trends.
 
 ### Data Collected
 ---
