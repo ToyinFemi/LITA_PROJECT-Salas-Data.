@@ -76,7 +76,8 @@ select count(orderid) as Sales_Count, Region from [dbo].[Capstone Sales Data]
 GROUP BY Region
 ```
 
+![SQL 1 2](https://github.com/user-attachments/assets/f3671ef6-386a-439f-a849-c76c9b25bb58)
 
-
+#### Inference:
 
 
