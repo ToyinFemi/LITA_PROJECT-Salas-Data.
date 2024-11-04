@@ -50,12 +50,12 @@ The data was explored to determine the following:
 - Products with no sales in the last quarter.
 - Regional breakdowns
 
-### Data Analysis and Inferences (MICROSOFT EXCEL)
+### Data Analysis, Visualization, and Inferences (Microsoft Excel)
 ---
 This includes all the pivot tables made using Microsoft Excel.
 1.	Total Sales per Product
 
-### Data Analysis and Inferences (SQL)
+### Data Analysis, Visualization, and Inferences (SQL)
 ---
 This includes the lines of queries used during the analysis using SQL.
 1.	Total sales of each product category.
