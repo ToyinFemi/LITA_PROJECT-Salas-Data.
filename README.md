@@ -21,5 +21,8 @@ The dataset includes the following key columns:
 - UnitPrice: The amount of each product.
 
 ### Tools Used
+- Microsoft Excel: For Data Cleaning, Analysis, and Visualization.
+- Structured Query Language(SQL): For Querying of Data.
+- Power BI: For Data Transformation, and Virtualization. 
 
 
