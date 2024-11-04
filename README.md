@@ -80,4 +80,43 @@ GROUP BY Region
 
 #### Inference:
 
+#### 3.	Highest-selling product by total sales value.
+
+``  SQL 
+select top 1 sum(sales) as Highest_Selling_Product, product from [dbo].[Capstone Sales Data]
+group by product
+```
+
+![SQL 1 3](https://github.com/user-attachments/assets/cfbdc12a-ffd7-4a16-b808-2c7580d7da70)
+
+####Inference:
+
+#### 4.	Total revenue per product.
+
+``  SQL 
+select sum(sales) as total_revenue,
+product from [dbo].[Capstone Sales Data]
+group by product
+```
+
+![SQL 1 4](https://github.com/user-attachments/assets/36c29966-4560-4fbb-aa03-9902f8f377e4)
+
+#### Inference:
+
+#### 5.	Monthly sales totals for the current year.
+
+``  SQL 
+select sum(sales) as Sales_2024, Month from [dbo].[Capstone Sales Data]
+where year =2024
+group by month  
+```
+
+![SQL 1 5](https://github.com/user-attachments/assets/eeed5836-541b-4afd-a52f-0d7198e9b4da)
+
+#### Inference:
+
+
+
+
+
 
