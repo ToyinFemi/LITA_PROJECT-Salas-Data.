@@ -25,4 +25,11 @@ The dataset includes the following key columns:
 - Structured Query Language(SQL): For Querying of Data.
 - Power BI: For Data Transformation, and Virtualization. 
 
+### Data Cleaning and Preparations
+
+The following actions were performed to clean and prepare the data:
+
+- Data Loading and Inspection on Microsoft Excel, SQL, and Power BI.
+- Data Cleaning and Formating on Microsoft Excel and Power BI.
+- Handling and Calculating missing variables on Microsoft Excel, SQL, and Power BI.
 
