@@ -21,15 +21,31 @@ The dataset includes the following key columns:
 - UnitPrice: The amount of each product.
 
 ### Tools Used
-- Microsoft Excel: For Data Cleaning, Analysis, and Visualization.
-- Structured Query Language(SQL): For Querying of Data.
-- Power BI: For Data Transformation, and Virtualization. 
+1. Microsoft Excel: For Data Cleaning, Analysis, and Visualization.
+2. Structured Query Language(SQL): For Querying of Data.
+3. Power BI: For Data Transformation, and Virtualization. 
 
 ### Data Cleaning and Preparations
 
 The following actions were performed to clean and prepare the data:
 
 - Data Loading and Inspection on Microsoft Excel, SQL, and Power BI.
-- Data Cleaning and Formating on Microsoft Excel and Power BI.
+- Data Cleaning and Formatting on Microsoft Excel and Power BI.
 - Handling and Calculating missing variables on Microsoft Excel, SQL, and Power BI.
 
+### Exploratory Data Analysis
+
+The data was explored to determine the following: 
+
+- Total sales by product, region, and month.
+- Average sales per product.
+- Total revenue by region.
+- Total sales for each product category.
+- Number of sales transactions in each region.
+- Highest-selling product by total sales value.
+- Total revenue per product.
+- Monthly sales totals for the year 2024.
+- Top 5 customers by total purchase amount.
+- Percentage of total sales contributed by each region.
+- Products with no sales in the last quarter.
+- Regional breakdowns
