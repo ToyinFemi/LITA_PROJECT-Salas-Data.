@@ -20,6 +20,20 @@ The dataset includes the following key columns:
 - Quantity: The number of products each customer purchases per transaction.
 - UnitPrice: The amount of each product.
 
+The following are the calculated columns made in Excel:
+- Sales.
+Formula used: = Quantity * Unit Price
+  
+- Year.
+Formula used: = Year (OrderDate)
+  
+- Month.
+Formula used: = TEXT (OrderDate, "Mmm")
+  
+- Quarter. 
+Formula used: = =ROUNDUP (MONTH(OrderDate)/3,0)
+---
+
 ### Tools Used
 ---
 1. Microsoft Excel: For Data Cleaning, Analysis, and Visualization.
@@ -50,14 +64,36 @@ The data was explored to determine the following:
 - Products with no sales in the last quarter.
 - Regional breakdowns
 
+
 ### Data Analysis, Visualization, and Inferences (Microsoft Excel)
 ---
 This includes all the pivot tables made using Microsoft Excel.
-1.	Total Sales per Product
+#### 1.	Total Sales per Product.
+
+![X 1 1](https://github.com/user-attachments/assets/ce51a231-52a5-4bfd-b7ec-d6ccbb187ba6)
+
+#### 2.	Total Sales per Region.
+
+![X 1 2](https://github.com/user-attachments/assets/a758af49-bf13-4194-a3c1-ca309b289495)
+
+#### 3.	Total Sales per Month.
+
+![x 1 3](https://github.com/user-attachments/assets/e99248d0-c5a4-444b-a000-55ca866dcbe5)
+
+#### 4. Average Sales per Product.
+
+![x 1 4](https://github.com/user-attachments/assets/7edb54db-ba72-48cc-8e9d-5d1e99023145)
+
+#### 5. Total Revenue by Region. 
+
+![x 1 5](https://github.com/user-attachments/assets/eda253d5-6874-4bf5-8b77-08c4140cc2f1)
+---
+
 
 ### Data Analysis, Visualization, and Inferences (SQL)
 ---
-This includes the lines of queries used during the analysis using SQL, and their outputs.
+This includes the lines of queries used while analyzing the data on SQL, and their outputs.
+
 #### 1.	Total sales of each product category.
 
 ```SQL
@@ -151,6 +187,11 @@ and quarter =3
 ![SQL 1 8](https://github.com/user-attachments/assets/8c531a35-b8bb-4dcd-ad9a-69df2ecf47e2)
 
 #### Inference:
+
+
+### Data Analysis, Visualization, and Inferences (Power BI)
+---
+This includes all the Visuals made using Power BI.
 
 
 
