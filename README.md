@@ -15,8 +15,9 @@ This is a documentation of data validation, cleaning, querying, transformation, 
 
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
-[Data Visualization Visualization-and-Inferences](#data-visualization-and-inferences)
+[Data Visualization](#data-visualization)
 
+[Inference](#inference)
 
 ### Project Overview
 ---
@@ -79,7 +80,7 @@ The data was explored to determine the following:
 - Regional breakdowns
 
 
-### Data Visualization, and Inferences 
+### Data Visualization
 (Microsoft Excel)
 ---
 This includes all the pivot tables made using Microsoft Excel.
@@ -105,7 +106,8 @@ This includes all the pivot tables made using Microsoft Excel.
 ---
 
 
-### Data Analysis, Visualization, and Inferences (SQL)
+### Data Visualization
+(SQL)
 ---
 This includes the lines of queries used while analyzing the data on SQL, and their outputs.
 
@@ -164,7 +166,7 @@ group by month
 
 ![SQL 1 5](https://github.com/user-attachments/assets/eeed5836-541b-4afd-a52f-0d7198e9b4da)
 
-#### Inference:
+
 
 #### 6.	Top 5 customers by total purchase amount.
 
@@ -198,13 +200,11 @@ where sales=0
   and year =2024
 and quarter =3
 ```
-
 ![SQL 1 8](https://github.com/user-attachments/assets/8c531a35-b8bb-4dcd-ad9a-69df2ecf47e2)
 
-#### Inference:
 
-
-### Data Analysis, Visualization, and Inferences (Power BI)
+### Data Visualization
+(Power BI)
 ---
 This includes all the Visuals made using Power BI.
 
@@ -236,8 +236,10 @@ This includes all the Visuals made using Power BI.
 
 ![PBI 1 14](https://github.com/user-attachments/assets/7183074c-b281-4198-8da5-ec506254698d)
 
-![PBI 1 15](https://github.com/user-attachments/assets/5c134fcf-dfbf-4cd9-8293-03aa6b4d2557)
+![PBI 1 15](https://github.com/user-attachments/assets/e3dd7b58-dbeb-415e-850d-f0c40050cab5)
 
+---
 
+### Inference
 
 
