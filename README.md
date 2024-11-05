@@ -6,10 +6,15 @@ This is a documentation of data validation, cleaning, querying, transformation, 
 ---
 
 [Project Overview](#project-overview)
+
 [Data Collected](#data-collected)
-[Tools Used] (#tools-used)
+
+[Tools Used](#tools-used)
+
 [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+
 [Exploratory Data Analysis](#exploratory-data-analysis)
+
 [Data Visualization Visualization-and-Inferences](#data-visualization-and-inferences)
 
 
