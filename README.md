@@ -241,5 +241,22 @@ This includes all the Visuals made using Power BI.
 ---
 
 ### Inference
+---
+-	#### Sales Trend by Products:
+A total revenue of 2,101,090 was made. The highest selling product is shoes, followed by, shirt, gloves, and jacket respectively, while socks recorded the fewest sales. Shoes made 29.19% of the revenue, shirt, 23.11%, hat, 15.05%, gloves, 14.13%, jacket, 9.91,%, and socks, 8.6%. 
+-	#### Regional Performance:
+The East region recorded the highest number of sales, followed by North, South and West region respectively. The East region recorded  25.03% of the total sales, North region, 25.01 %, South region, 25%, West region, 24.97%. 
+The South region recorded the highest revenue, followed by East, North and West regions respectively. The South region recorded  44.16% of the total revenue, East region, 23.13%, North region, 18.42%, West, 14.29%. 
+-	#### Monthly/Yearly Sales Trend:
+In the years 2023 and 2024, total revenue was 2,101,090. The highest sales were recorded in February, while the fewest were in September. 
+In the year 2023, a total  revenue of 1,105,330 was made, the highest sales were recorded in February, while the lowest sales happened in April.
+In the year 2024, a total  revenue of 995,760  was made from January to August, the highest sales were recorded in February, while the lowest sales happened in July.
+-	#### Sales Trend by Products and Region:
+A total revenue of 2,101,090 was made. The South region made a total revenue of 927,820,  East, 485,925, North, 387,000,  West, 300,345. 
+In the South region, shoes contributed 58.58% of the total revenue, gloves 26.69%, and socks 14.43%. Shirts, hats, and jackets recorded no sales in the region. 
+- In the East region, shirt contributed 48.9% of the total revenue, hat, 22.06%, jacket, 21.39%, and shoes, 7.66%. Gloves and socks recorded no sales in the region.
+- In the North region, shirt contributed 64.08% of the total revenue, jacket, 26.95%, and hat, 8.97%. Shoes, gloves and socks recorded no sales in the region.
+- In the West region, hat contributed 58.03% of the total revenue, gloves, 16.41%, socks, 15.6%, and shoes, 9.95%. Shirt and jacket recorded no sales in the region. 
+
 
 
