@@ -18,7 +18,7 @@ This is a documentation of data validation, cleaning, querying, transformation, 
 [Data Visualization Visualization-and-Inferences](#data-visualization-and-inferences)
 
 
-### Overview
+### Project Overview
 ---
 This project collects and analyzes sales trends of products sold by  a retail store that has outlets in different regions from January 2023 to August 2024. This project aims to generate key insights such as top-selling products, regional performance, customer behavior, and monthly sales trends.
 
