@@ -4,6 +4,15 @@ This is a documentation of data validation, cleaning, querying, transformation, 
 
 ## Topic: Sales Performance Analysis.
 ---
+
+[Project Overview](#project-overview)
+[Data Collected](#data-collected)
+[Tools Used] (#tools-used)
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
+[Exploratory Data Analysis](#exploratory-data-analysis)
+[Data Visualization Visualization-and-Inferences](#data-visualization-and-inferences)
+
+
 ### Overview
 ---
 This project collects and analyzes sales trends of products sold by  a retail store that has outlets in different regions from January 2023 to August 2024. This project aims to generate key insights such as top-selling products, regional performance, customer behavior, and monthly sales trends.
