@@ -65,7 +65,8 @@ The data was explored to determine the following:
 - Regional breakdowns
 
 
-### Data Analysis, Visualization, and Inferences (Microsoft Excel)
+### Data Visualization, and Inferences 
+(Microsoft Excel)
 ---
 This includes all the pivot tables made using Microsoft Excel.
 #### 1.	Total Sales per Product.
