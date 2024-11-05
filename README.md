@@ -17,7 +17,7 @@ This is a documentation of data validation, cleaning, querying, transformation, 
 
 [Data Visualization](#data-visualization)
 
-[Inference](#inference)
+[Inferences](#inferences)
 
 ### Project Overview
 ---
@@ -240,7 +240,7 @@ This includes all the Visuals made using Power BI.
 
 ---
 
-### Inference
+### Inferences
 ---
 -	#### Sales Trend by Products:
 A total revenue of 2,101,090 was made. The highest selling product is shoes, followed by, shirt, gloves, and jacket respectively, while socks recorded the fewest sales. Shoes made 29.19% of the revenue, shirt, 23.11%, hat, 15.05%, gloves, 14.13%, jacket, 9.91,%, and socks, 8.6%. 
