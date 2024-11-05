@@ -15,7 +15,7 @@ This is a documentation of data validation, cleaning, querying, transformation, 
 
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
-[Data Visualization](#data-visualization)
+[Data Analysis and Visualization](#data-analysis-and-visualization)
 
 [Inferences](#inferences)
 
@@ -80,7 +80,7 @@ The data was explored to determine the following:
 - Regional breakdowns
 
 
-### Data Visualization
+### Data Analysis and Visualization
 (Microsoft Excel)
 ---
 This includes all the pivot tables made using Microsoft Excel.
@@ -106,7 +106,7 @@ This includes all the pivot tables made using Microsoft Excel.
 ---
 
 
-### Data Visualization
+###  Data Analysis and Visualization
 (SQL)
 ---
 This includes the lines of queries used while analyzing the data on SQL, and their outputs.
@@ -131,7 +131,6 @@ GROUP BY Region
 
 ![SQL 1 2](https://github.com/user-attachments/assets/f3671ef6-386a-439f-a849-c76c9b25bb58)
 
-#### Inference:
 
 #### 3.	Highest-selling product by total sales value.
 
@@ -142,7 +141,6 @@ group by product
 
 ![SQL 1 3](https://github.com/user-attachments/assets/cfbdc12a-ffd7-4a16-b808-2c7580d7da70)
 
-####Inference:
 
 #### 4.	Total revenue per product.
 
@@ -154,7 +152,6 @@ group by product
 
 ![SQL 1 4](https://github.com/user-attachments/assets/36c29966-4560-4fbb-aa03-9902f8f377e4)
 
-#### Inference:
 
 #### 5.	Monthly sales totals for the current year.
 
@@ -167,7 +164,6 @@ group by month
 ![SQL 1 5](https://github.com/user-attachments/assets/eeed5836-541b-4afd-a52f-0d7198e9b4da)
 
 
-
 #### 6.	Top 5 customers by total purchase amount.
 
 ```SQL 
@@ -177,7 +173,6 @@ group by Customer_Id
 
 ![SQL 1 6](https://github.com/user-attachments/assets/6272b82f-2052-4811-a591-1ab830253761)
 
-#### Inference:
 
 #### 7.	Percentage of total sales contributed by each region.
 
@@ -190,7 +185,6 @@ group by region
 
 ![SQL 1 7](https://github.com/user-attachments/assets/53172187-c0bd-4093-b8dd-89ff3be78795)
 
-#### Inference:
 
 #### 8.	Products with no sales in the last quarter.
 
@@ -203,7 +197,7 @@ and quarter =3
 ![SQL 1 8](https://github.com/user-attachments/assets/8c531a35-b8bb-4dcd-ad9a-69df2ecf47e2)
 
 
-### Data Visualization
+###  Data Analysis and Visualization
 (Power BI)
 ---
 This includes all the Visuals made using Power BI.
